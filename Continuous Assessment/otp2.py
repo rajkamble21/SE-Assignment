@@ -1,5 +1,5 @@
 """
-    Test cases for otp program
+    otp verification program with functional decomposition
     Author: Raj Kamble
 """
 

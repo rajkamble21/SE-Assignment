@@ -1,5 +1,5 @@
 """
-    Test cases for otp program
+    otp verification program with oop paradigm
     Author: Raj Kamble
 """
 

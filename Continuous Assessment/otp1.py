@@ -1,5 +1,5 @@
 """
-    Test cases for otp program
+    Python otp verification
     Author: Raj Kamble
 """
 
